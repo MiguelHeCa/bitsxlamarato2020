@@ -1,2 +1,2 @@
-# bitsxlamarato2020
+# BitsxlaMarato2020
 Avoiding Unnecessary Testing on Children Challenge
